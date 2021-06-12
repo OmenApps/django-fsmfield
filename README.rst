@@ -27,7 +27,7 @@ Installation
 
 .. code-block:: sh
 
-   $ pip install fsmfield
+   $ pip install django-fsmfield
 
 or
 
