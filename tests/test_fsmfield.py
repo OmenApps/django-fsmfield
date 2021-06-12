@@ -5,7 +5,7 @@
 import pytest
 
 
-from fsmfield import fsmfield
+from fsmfield import *
 
 
 @pytest.fixture

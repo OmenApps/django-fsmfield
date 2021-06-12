@@ -38,7 +38,7 @@ setup(
     packages=find_packages(include=['fsmfield', 'fsmfield.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/dryprojects/fsmfield',
+    url='https://github.com/dryprojects/django-fsmfield',
     version='0.1.0',
     zip_safe=False,
 )
