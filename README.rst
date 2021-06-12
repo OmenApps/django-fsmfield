@@ -4,14 +4,10 @@ django-fsmfield
 
 
 .. image:: https://img.shields.io/pypi/v/fsmfield.svg
-        :target: https://pypi.python.org/pypi/fsmfield
+        :target: https://pypi.python.org/pypi/django-fsmfield
 
 .. image:: https://img.shields.io/travis/dryprojects/fsmfield.svg
-        :target: https://travis-ci.com/dryprojects/fsmfield
-
-.. image:: https://readthedocs.org/projects/fsmfield/badge/?version=latest
-        :target: https://fsmfield.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
+        :target: https://travis-ci.com/dryprojects/django-fsmfield
 
 
 
