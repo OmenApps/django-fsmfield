@@ -3,7 +3,7 @@ django-fsmfield
 ===============
 
 
-.. image:: https://img.shields.io/pypi/v/fsmfield.svg
+.. image:: https://img.shields.io/pypi/v/django-fsmfield.svg
         :target: https://pypi.python.org/pypi/django-fsmfield
 
 .. image:: https://img.shields.io/travis/dryprojects/fsmfield.svg
